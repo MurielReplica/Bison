@@ -1,0 +1,3 @@
+rootProject.name = 'bison'
+
+include ':app'
